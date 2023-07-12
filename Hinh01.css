@@ -21,6 +21,7 @@ header div{
     font-weight: 600;
     padding: 15px 200px 15px 20px;
     font-size: 30px;
+    opacity: 0.6;
 }
 main{
     display: flex;
